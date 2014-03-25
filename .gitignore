@@ -1,0 +1,4 @@
+#Ignore files ending with .a or .o
+*.[oa]
+#Igonre files ending with ~
+*~
