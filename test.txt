@@ -6,3 +6,4 @@ My test 4 string
 
 Starting my branch
 Continue my branch
+Continue 2 my branch 
